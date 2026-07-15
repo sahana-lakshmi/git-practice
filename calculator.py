@@ -4,7 +4,8 @@ def subtract (a,b):
     return a - b
 def mul (a,b):
     return a * b
-
+def div(a,b):
+    return a/b
 
 if __name__ == "__main__":
     x =10
@@ -12,3 +13,4 @@ if __name__ == "__main__":
     print("sum: ",add(x,y))
     print("difference: ",subtract(x,y))
     print("product: ",mul(x,y))
+    print("div: ",div(x,y))
