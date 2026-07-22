@@ -14,3 +14,7 @@ if __name__ == "__main__":
     print("difference: ",subtract(x,y))
     print("product: ",mul(x,y))
     print("div: ",div(x,y))
+
+
+print(a)
+print(b)
